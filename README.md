@@ -1,4 +1,3 @@
 # Bank-Atm
-Honing my Java skills with a Bank application.
-Completed the bank app learning encapsulation, inheritance and polymorphism in java.
+A bank application, that simulates deposits and withdrawal in a normal banking system
 ref Deitel Deitel 
